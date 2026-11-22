@@ -21,9 +21,9 @@ Crytec cryengine far cry 2004 far-cry-1.34-complete
 ## Reference links
 [https://archive.org/details/far-cry-1.40-gametools-src](https://archive.org/details/far-cry-1.40-gametools-src)
 
-[![Far cry 1 Sandbox Editor creating a map tutorial no4](https://img.youtube.com/vi/ijnlG84gcqs/hqdefault.jpg)](https://ytembed.macosxjs.com/?aWpubEc4NGdjcXM)
-
 [![Far Cry MacOSX Wineskin](https://i.ytimg.com/vi/ShjANt3tN8o/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjHprmtAjCAv7Kkz8XOX_XRb)
+
+[![Far cry 1 Sandbox Editor creating a map tutorial no4](https://img.youtube.com/vi/ijnlG84gcqs/hqdefault.jpg)](https://ytembed.macosxjs.com/?aWpubEc4NGdjcXM)
 
 [![Far Cry 2004](https://raw.githubusercontent.com/igiteam/far-cry-2004/refs/heads/main/farcry1.jpg)](https://archive.org/details/far-cry_202402)
 
