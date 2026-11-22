@@ -22,9 +22,9 @@ set -euo pipefail
 
 # ====== CONFIG ======
 OLD_OWNER="igiteam"
-OLD_REPO="openofpcwc-projectigi"
+OLD_REPO="far-cry-2004"
 NEW_OWNER="igiteam"
-NEW_REPO="openofpcwc-hidden-and-dangerous"
+NEW_REPO="far-cry-2004-aliens-vs-predator-2"
 # ====================
 
 # Prompt for visibility (public is default -- just press Enter)
