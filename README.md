@@ -11,7 +11,7 @@ Crytec cryengine far cry 2004 far-cry-1.34-complete
 ## Base gameplay
 [![farcryigi1](https://img.youtube.com/vi/Hqrr6yR5CwY/maxresdefault.jpg)](https://ytembed.macosxjs.com/?SHFycjZ5UjVDd1k)
 
-[![Far Cry Vengeance Wii](https://img.youtube.com/vi/7_sBNwGntbE/maxresdefault.jpg)](https://ytembed.macosxjs.com/?N19zQk53R250YkU)
+[![Far Cry Vengeance Wii](https://i.ytimg.com/vi/Qdhp2QP3p8I/maxresdefault.jpg)](https://ytembed.macosxjs.com/?N19zQk53R250YkU)
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
