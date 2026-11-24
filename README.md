@@ -11,6 +11,7 @@ Crytec cryengine far cry 2004 far-cry-1.34-complete
 ## Base gameplay
 [![farcryigi1](https://img.youtube.com/vi/Hqrr6yR5CwY/maxresdefault.jpg)](https://ytembed.macosxjs.com/?SHFycjZ5UjVDd1k)
 
+[![Far Cry Vengeance Wii](https://img.youtube.com/vi/7_sBNwGntbE/maxresdefault.jpg)](https://ytembed.macosxjs.com/?N19zQk53R250YkU)
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
@@ -21,9 +22,15 @@ Crytec cryengine far cry 2004 far-cry-1.34-complete
 ## Reference links
 [https://archive.org/details/far-cry-1.40-gametools-src](https://archive.org/details/far-cry-1.40-gametools-src)
 
+[https://github.com/dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin)
+
+[https://dolphin-emu.org/](https://dolphin-emu.org/)
+
 [![Far Cry MacOSX Wineskin](https://i.ytimg.com/vi/ShjANt3tN8o/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjHprmtAjCAv7Kkz8XOX_XRb)
 
 [![Far cry 1 Sandbox Editor creating a map tutorial no4](https://img.youtube.com/vi/ijnlG84gcqs/hqdefault.jpg)](https://ytembed.macosxjs.com/?aWpubEc4NGdjcXM)
+
+[![Far Cry Vengeance](https://raw.githubusercontent.com/igiteam/far-cry-2004/refs/heads/main/farcryvengeance.png)](https://vimm.net/vault/64042)
 
 [![Far Cry 2004](https://raw.githubusercontent.com/igiteam/far-cry-2004/refs/heads/main/farcry1.jpg)](https://archive.org/details/far-cry_202402)
 
